@@ -11,11 +11,17 @@ body {
   width: 50%;
   margin: 50px auto;
   font-weight: lighter;
-  background: #5d92b6;
+  background: rgb(255, 255, 255);
 }
 
 h1 {
     text-align: center;
+    color:rgb(4, 12, 80);
+}
+
+h3 {
+  text-align: left;
+  color:rgb(4, 12, 80);
 }
 .image {
     overflow: hidden;
@@ -31,16 +37,25 @@ h1 {
     height: 100%;
   }
 
-  ul {
+  li {
       text-align: center;
+     
+    
   }
 
   h2 {
       text-align: center;
+      color:rgb(4, 12, 80);
   }
 
   p {
     line-height: 150%;
     font-size:120%;
-    color:rgb(31, 41, 134);
+    color:rgb(4, 12, 80);
+  }
+
+  .by {
+  
+    font-size: medium;
+    text-align:center;
   }
