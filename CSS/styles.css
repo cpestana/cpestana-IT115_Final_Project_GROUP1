@@ -38,3 +38,9 @@ h1 {
   h2 {
       text-align: center;
   }
+
+  p {
+    line-height: 150%;
+    font-size:120%;
+    color:rgb(31, 41, 134);
+  }
