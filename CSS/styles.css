@@ -1,1 +1,41 @@
 
+* {
+    margin: .5, auto;
+  }
+
+html {
+    font-family: arial, Arial, Helvetica, sans-serif; 
+    font-size: large; 
+}
+
+body {
+  width: 50%;
+  margin: 50px auto;
+  font-weight: lighter;
+  background: #2f9b71;
+}
+
+h1 {
+    text-align: center;
+}
+.image {
+    overflow: hidden;
+    width:fit-content;
+    height: 70%;
+    margin: 70px auto;
+    border-radius: 10px;
+    background:rgb(103, 161, 137);
+  }
+  .image img {
+    max-width: 100%;
+    margin:0 auto;
+    height: 100%;
+  }
+
+  ul {
+      text-align: center;
+  }
+
+  h2 {
+      text-align: center;
+  }
